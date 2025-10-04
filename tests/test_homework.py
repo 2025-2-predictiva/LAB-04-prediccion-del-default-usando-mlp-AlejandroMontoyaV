@@ -9,7 +9,7 @@ import pickle
 import pandas as pd  # type: ignore
 
 # ------------------------------------------------------------------------------
-MODEL_FILENAME = "files/models/model.pkl.gz"
+MODEL_FILENAME = "../files/models/model.pkl.gz"
 MODEL_COMPONENTS = [
     "OneHotEncoder",
     "PCA",
