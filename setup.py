@@ -9,7 +9,7 @@ setup(
     install_requires=[
         "pytest",
         "pandas",
-        "scikit-learn==1.7.2",
+        "scikit-learn",
         "ipykernel",
         "xlrd",
     ],
